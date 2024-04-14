@@ -8,6 +8,8 @@ Contact Information
 📞 Phone: +91 88282 76174
 📧 Email: mestrypradumana1999@gmail.com
 🌍 Location: Mumbai, Maharashtra
+
+
 Education
 B.E. / B. Tech (Mechanical), Mumbai University, 2022
 Diploma (Mechanical), MSBTE, 2018
@@ -24,6 +26,7 @@ Data Structures in JAVA by Coding Ninjas
 Introduction to JAVA by Coding Ninjas
 Professional Experience
 Internship at ELEATION [Jan 2022 - Jul 2022]
+
 
 Collaborative Experience
 Practical Application of HyperWorks and ANSYS tools
