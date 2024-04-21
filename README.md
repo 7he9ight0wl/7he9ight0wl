@@ -14,9 +14,6 @@
 ### 💫 About Me
 
 👋 Hello! I'm Pradumana Mestry, a software developer based in Mumbai, Maharashtra.
-
-## Summary
-
 I am a software developer with a strong focus on front-end development, particularly skilled in the MERN Stack. Passionate about crafting websites and finding innovative solutions. Eager to tackle challenges and excel in software development.
 
 ## Contact Information
@@ -25,17 +22,6 @@ I am a software developer with a strong focus on front-end development, particul
 - 📧 **Email:** mestrypradumana1999@gmail.com
 - 🌍 **Location:** Mumbai, Maharashtra
 
-## Education
-
-- **B.E. / B. Tech (Mechanical)**, Mumbai University, 2022
-- **Diploma (Mechanical)**, MSBTE, 2018
-
-## Skills
-
-- **Programming Languages:** JavaScript, HTML, CSS
-- **Frameworks/Libraries:** React, Node.js, Express.js, Tailwind CSS
-- **Tools/Other Skills:** MongoDB, Figma
-
 ## Certifications
 
 - **Back End | Full Stack Web Development in Node.js** by Coding Ninjas
@@ -43,23 +29,6 @@ I am a software developer with a strong focus on front-end development, particul
 - **Front End | Full Stack Web Development** by Coding Ninjas
 - **Data Structures in JAVA** by Coding Ninjas
 - **Introduction to JAVA** by Coding Ninjas
-
-## Professional Experience
-
-**Internship at ELEATION** [Jan 2022 - Jul 2022]
-- Collaborative Experience
-- Practical Application of HyperWorks and ANSYS tools
-- Problem-Solving Aptitude
-- Technical Insight in structural engineering
-- Contributions to Design
-
-## Projects
-
-1. **TodoList:** Task management app with React.js/Next.js
-2. **Voting-app:** Secure voting app using Node.js, MongoDB, and Passport
-3. **News_Monkey:** Advanced news app using React
-4. **IMDB Clone:** IMDB-like platform using React
-5. **SuperHeroHunter:** Platform for searching and favoriting superheroes/villains using React
 
 <!-- Tech Stack -->
 <br />
