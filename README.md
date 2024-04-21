@@ -2,7 +2,11 @@
 <br />
 
 <div align="center">
-Pradumana Mestry | Software Developer | Mumbai, Maharashtra
+<div style="border: 2px solid #333399; padding: 20px; border-radius: 10px;">
+    <h1 align="center" style="color: #333399; font-family: Arial, sans-serif;"><img src="https://img.icons8.com/color/48/000000/batman.png" style="vertical-align: middle;" alt="Batman Icon"/> Hello! I'm Pradumana Mestry <img src="https://img.icons8.com/color/48/000000/batman.png" style="vertical-align: middle;" alt="Batman Icon"/></h1>
+    <h3 align="center" style="color: #666666; font-family: Arial, sans-serif;">Software Developer | Mumbai, Maharashtra</h3>
+</div>
+
 
   <p align="center">It's nice to have you here!</p>
 <!--   <a href="www.linkedin.com/in/7he9ighe0wl"><strong>My LinkedIn</strong></a> -->
