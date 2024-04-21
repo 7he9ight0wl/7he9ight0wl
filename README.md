@@ -74,4 +74,5 @@ I am a software developer with a strong focus on front-end development, particul
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/7he9ighe0wl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7he9ighe0wl)
+
