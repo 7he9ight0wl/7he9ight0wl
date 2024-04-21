@@ -2,8 +2,7 @@
 <br />
 
 <div align="center">
-  <h1 align="center"> Hello! I'm Pradumana Mestry </h1>
-  <h3 align="center">Software Developer | Mumbai, Maharashtra</h3>
+Pradumana Mestry | Software Developer | Mumbai, Maharashtra
 
   <p align="center">It's nice to have you here!</p>
 <!--   <a href="www.linkedin.com/in/7he9ighe0wl"><strong>My LinkedIn</strong></a> -->
