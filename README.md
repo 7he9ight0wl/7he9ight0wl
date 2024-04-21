@@ -1,4 +1,17 @@
-# Pradumana Mestry | Software Developer | Mumbai, Maharashtra
+<!-- About Me -->
+<br />
+
+<div align="center">
+  <h1 align="center">💠 Hello! I'm Pradumana Mestry 💠</h1>
+  <h3 align="center">Software Developer | Mumbai, Maharashtra</h3>
+
+  <p align="center">It's nice to have you here!</p>
+  <a href="www.linkedin.com/in/7he9ighe0wl"><strong>My LinkedIn</strong></a>
+</div>
+
+<br />
+
+### 💫 About Me
 
 👋 Hello! I'm Pradumana Mestry, a software developer based in Mumbai, Maharashtra.
 
@@ -20,9 +33,8 @@ I am a software developer with a strong focus on front-end development, particul
 ## Skills
 
 - **Programming Languages:** JavaScript, HTML, CSS
-- **Frameworks/Libraries:** React, Redux, Bootstrap
-- **Version Control:** Git
-- **Tools/Other Skills:** Webpack, Babel, NPM/Yarn
+- **Frameworks/Libraries:** React, Node.js, Express.js, Tailwind CSS
+- **Tools/Other Skills:** MongoDB, Figma
 
 ## Certifications
 
@@ -49,6 +61,26 @@ I am a software developer with a strong focus on front-end development, particul
 4. **IMDB Clone:** IMDB-like platform using React
 5. **SuperHeroHunter:** Platform for searching and favoriting superheroes/villains using React
 
-## Conclusion
+<!-- Tech Stack -->
+<br />
 
-My profile demonstrates a strong foundation in software development, with expertise in front-end development and a variety of projects showcasing my skills. Keep up the great work!
+### ⚡ Tech Stack
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<!-- Social -->
+<br />
+
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/7he9ighe0wl)
+
