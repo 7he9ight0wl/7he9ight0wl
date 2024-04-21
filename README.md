@@ -13,7 +13,7 @@
 
 ### 💫 About Me
 
- Hello! I'm Pradumana Mestry, a software developer based in Mumbai, Maharashtra.
+ Hello! I'm a software developer based in Mumbai, Maharashtra.
 I am a software developer with a strong focus on front-end development, particularly skilled in the MERN Stack. Passionate about crafting websites and finding innovative solutions. Eager to tackle challenges and excel in software development.
 
 ## Contact Information
