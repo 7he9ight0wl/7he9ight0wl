@@ -3,9 +3,10 @@
 
 <div align="center">
 <div style="border: 2px solid #333399; padding: 20px; border-radius: 10px;">
-    <h1 align="center" style="color: #333399; font-family: Arial, sans-serif;"><img src="https://img.icons8.com/color/48/000000/batman-logo.png" style="vertical-align: middle;" alt="Batman Logo"/> Hello! I'm Pradumana Mestry <img src="https://img.icons8.com/color/48/000000/batman-logo.png" style="vertical-align: middle;" alt="Batman Logo"/></h1>
+    <h1 align="center" style="color: #333399; font-family: Arial, sans-serif;"><img src="URL_TO_BATMAN_LOGO" style="vertical-align: middle;" alt="Batman Logo"/> Hello! I'm Pradumana Mestry <img src="URL_TO_BATMAN_LOGO" style="vertical-align: middle;" alt="Batman Logo"/></h1>
     <h3 align="center" style="color: #666666; font-family: Arial, sans-serif;">Software Developer | Mumbai, Maharashtra</h3>
 </div>
+
 
 </div>
 
