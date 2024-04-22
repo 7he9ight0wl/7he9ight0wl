@@ -13,7 +13,7 @@
 
 
   <p align="center">It's nice to have you here!</p>
-<!--   <a href="www.linkedin.com/in/7he9ighe0wl"><strong>My LinkedIn</strong></a> -->
+  <a href="https://portfolio-g1km7se4f-7he9ight0wls-projects.vercel.app/"><strong>My Portfolio</strong></a>
 </div>
 
 <br />
