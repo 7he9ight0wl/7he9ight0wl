@@ -8,13 +8,35 @@
 </div>
 
 
+<!-- About Me -->
+<br />
 
+<div align="center">
+  <div style="border: 2px solid #333399; padding: 20px; border-radius: 10px;">
+    <h1 align="center" style="color: #333399; font-family: Arial, sans-serif;"><img src="https://image.shutterstock.com/image-vector/batman-logo-icon-vector-template-260nw-1998917738.jpg" style="vertical-align: middle; width: 50px; height: auto;" alt="Batman Logo"/> Hello! I'm Pradumana Mestry <img src="https://image.shutterstock.com/image-vector/batman-logo-icon-vector-template-260nw-1998917738.jpg" style="vertical-align: middle; width: 50px; height: auto;" alt="Batman Logo"/></h1>
+    <h3 align="center" style="color: #666666; font-family: Arial, sans-serif;">Software Developer | Mumbai, Maharashtra</h3>
+  </div>
 </div>
 
+<p align="center">It's nice to have you here!</p>
 
-  <p align="center">It's nice to have you here!</p>
-  <a align="center" href="https://portfolio-g1km7se4f-7he9ight0wls-projects.vercel.app/"><strong>My Portfolio</strong></a>
+<!-- Portfolio Link -->
+<div align="center">
+  <a href="https://portfolio-g1km7se4f-7he9ight0wls-projects.vercel.app/"><strong>My Portfolio</strong></a>
 </div>
+
+<br />
+
+<!-- About Me Content -->
+
+<!-- Contact Information -->
+
+<!-- Certifications -->
+
+<!-- Tech Stack -->
+
+<!-- Socials -->
+
 
 <br />
 
