@@ -4,7 +4,7 @@
 <div align="center">
   <div style="border: 2px solid #333399; padding: 20px; border-radius: 10px;">
     <h1 align="center" style="color: #333399; font-family: Arial, sans-serif;"><img src="https://fabrikbrands.com/wp-content/uploads/Batman-Logo-Evolution-1-1155x770.png" style="vertical-align: middle; width: 50px; height: auto;" alt="Batman Logo"/> Hello! I'm Pradumana Mestry <img src="https://fabrikbrands.com/wp-content/uploads/Batman-Logo-Evolution-1-1155x770.png" style="vertical-align: middle; width: 50px; height: auto;" alt="Batman Logo"/></h1>
-    <h3 align="center" style="color: #666666; font-family: Arial, sans-serif;">Software Developer | Mumbai, Maharashtra</h3>
+    <h3 align="center" style="color: #666666; font-family: Arial, sans-serif;">Data Analyst | Mumbai, Maharashtra</h3>
   </div>
 </div>
 
@@ -27,12 +27,11 @@
 
 <!-- Socials -->
 
-
 <br />
 
 ### 💫 About Me
 
-Hello! I'm a software developer based in Mumbai, Maharashtra. With a strong focus on front-end development, I specialize in the MERN Stack. Passionate about crafting websites and finding innovative solutions, I'm eager to tackle challenges and excel in software development.
+Hello! I'm a data analyst based in Mumbai, Maharashtra. With a strong foundation in mechanical engineering and a passion for uncovering insights from data, I specialize in tools like Power BI, SQL, Excel Automation, and SAP MM. I love transforming raw data into interactive dashboards and actionable insights that help teams make better decisions.
 
 ## Contact Information
 
@@ -42,57 +41,42 @@ Hello! I'm a software developer based in Mumbai, Maharashtra. With a strong focu
 
 ## Certifications
 
-- **Back End | Full Stack Web Development in Node.js** by Coding Ninjas
-- **Advance Front-End Web Development with React- Full Stack** by Coding Ninjas
-- **Front End | Full Stack Web Development** by Coding Ninjas
-- **Data Structures in JAVA** by Coding Ninjas
-- **Introduction to JAVA** by Coding Ninjas
+- **Data Analytics and Visualization Job Simulation** by Accenture North America (via Forage) [Oct 2024]  
+- **Back End | Full Stack Web Development in Node.js** by Coding Ninjas  
+- **Advance Front-End Web Development with React- Full Stack** by Coding Ninjas  
+- **Front End | Full Stack Web Development** by Coding Ninjas  
+- **Data Structures in JAVA** by Coding Ninjas  
+- **Introduction to JAVA** by Coding Ninjas  
 
 <!-- Tech Stack -->
 <br />
 
 ### ⚡ Tech Stack
 
-#### User Interface
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+#### Data Analytics & BI Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-00BFFF?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
-#### Backend
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+#### Engineering & Simulation Tools
+![ANSYS](https://img.shields.io/badge/ANSYS-FFD700?style=for-the-badge&logoColor=black)
+![HyperWorks](https://img.shields.io/badge/HyperWorks-FE5000?style=for-the-badge)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E60026?style=for-the-badge&logo=solidworks&logoColor=white)
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### CSS Frameworks & Libraries
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### Other Tools & Technologies
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-#### Design Tools
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+#### Soft Skills
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-0052CC?style=for-the-badge&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-007ACC?style=for-the-badge)
+![Team Collaboration](https://img.shields.io/badge/Collaboration-28a745?style=for-the-badge)
 
 <!-- Social -->
 <br />
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7he9ighe0wl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7he9ight0wl)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=7he9ight0wl&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=7he9ight0wl&theme=dark&hide_border=false)<br/>
@@ -104,5 +88,4 @@ Hello! I'm a software developer based in Mumbai, Maharashtra. With a strong focu
 ---
 [![](https://visitcount.itsvg.in/api?id=7he9ight0wl&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
