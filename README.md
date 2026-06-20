@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FDD835?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-nu-steel-18.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FDD835?style=for-the-badge&logo=vercel&logoColor=black)](https://7he9ight0wl.github.io/Me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FDD835)](https://www.linkedin.com/in/pradumana)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FDD835)](mailto:mestrypradumana1999@gmail.com)
 
@@ -83,7 +83,7 @@ Across roles I've built **Power BI** dashboards and automated the reporting nobo
 - 📧 **Email:** mestrypradumana1999@gmail.com
 - 🌍 **Location:** Mumbai, Maharashtra, India
 - 💼 **LinkedIn:** [/in/pradumana](https://www.linkedin.com/in/pradumana)
-- 🔗 **Portfolio:** [portfolio-nu-steel-18.vercel.app](https://portfolio-nu-steel-18.vercel.app/)
+- 🔗 **Portfolio:** [7he9ight0wl.github.io/Me](https://7he9ight0wl.github.io/Me/)
 
 ---
 
