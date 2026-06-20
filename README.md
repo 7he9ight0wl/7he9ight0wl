@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="bat-logo.svg" width="180" alt="Batman Logo"/>
+<img src="https://raw.githubusercontent.com/7he9ight0wl/7he9ight0wl/main/bat-logo.svg" width="180" alt="Batman Logo"/>
 
 <h1>Pradumana Mestry</h1>
 
