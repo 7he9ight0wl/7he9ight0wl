@@ -1,120 +1,85 @@
-<!-- ===================== Pradumana Mestry · GitHub Profile README ===================== -->
-<!-- Theme: The Dark Knight (black + bat-yellow #FDD835) -->
+<!-- About Me -->
+<br />
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/7he9ight0wl/7he9ight0wl/main/bat-logo.svg" width="180" alt="Batman Logo"/>
-
-<h1>Pradumana Mestry</h1>
-
-<h3>Data &amp; Quality Analyst &nbsp;·&nbsp; Mumbai, India</h3>
-
-*By day, dashboards and clean data. By night… still dashboards.* 🌃
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FDD835?style=for-the-badge&logo=vercel&logoColor=black)](https://7he9ight0wl.github.io/Me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FDD835)](https://www.linkedin.com/in/pradumana)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FDD835)](mailto:mestrypradumana1999@gmail.com)
-
+  <div style="border: 2px solid #333399; padding: 20px; border-radius: 10px;">
+    <h1 align="center" style="color: #333399; font-family: Arial, sans-serif;"><img src="https://fabrikbrands.com/wp-content/uploads/Batman-Logo-Evolution-1-1155x770.png" style="vertical-align: middle; width: 50px; height: auto;" alt="Batman Logo"/> Hello! I'm Pradumana Mestry <img src="https://fabrikbrands.com/wp-content/uploads/Batman-Logo-Evolution-1-1155x770.png" style="vertical-align: middle; width: 50px; height: auto;" alt="Batman Logo"/></h1>
+    <h3 align="center" style="color: #666666; font-family: Arial, sans-serif;">Data Analyst | Mumbai, Maharashtra</h3>
+  </div>
 </div>
 
----
+<p align="center">It's nice to have you here!</p>
 
-## 🦇 About Me
+<!-- Portfolio Link -->
+<div align="center">
+  <a href="https://7he9ight0wl.github.io/Me/"><strong>My Portfolio</strong></a>
+</div>
 
-I'm a **Data &amp; Quality Analyst** based in Mumbai who turns raw, messy data into decisions. Currently at **Peroptyx**, I evaluate audio, image, video and AI/search responses against detailed multi-criteria rubrics — the careful human judgment that trains and benchmarks search and AI systems.
+<br />
 
-Across roles I've built **Power BI** dashboards and automated the reporting nobody wants to do by hand — cutting manual effort up to **70%** with Python, SQL and Power Query. A mechanical-engineering background taught me that a wrong number has real consequences, and that habit of precision follows me into every dataset.
+### 💫 About Me
 
-- 🔭 Building clean dashboards, automation scripts and data-quality workflows
-- 🌱 Going deeper into **Python**, **SQL** and **AI / LLM** tooling
-- 🎯 Open to **Data Analyst · BI Analyst · Data Quality Analyst** roles
+Hello! I'm a data analyst based in Mumbai, Maharashtra. With a strong foundation in mechanical engineering and a passion for uncovering insights from data, I specialize in tools like Power BI, SQL, Excel Automation, SAP MM, and **Python**. I love transforming raw data into interactive dashboards and actionable insights that help teams make better decisions through **advanced analytical techniques**.
 
----
+## Contact Information
 
-## ⚡ The Arsenal — Tech Stack
-
-**Analytics &amp; BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=FDD835)
-![DAX](https://img.shields.io/badge/DAX-0D1117?style=for-the-badge&logoColor=FDD835)
-![Power Query](https://img.shields.io/badge/Power_Query-0D1117?style=for-the-badge&logo=microsoftpowerpoint&logoColor=FDD835)
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=FDD835)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FDD835)
-![SAP MM](https://img.shields.io/badge/SAP_MM-0D1117?style=for-the-badge&logo=sap&logoColor=FDD835)
-
-**Programming &amp; Web**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FDD835)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FDD835)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=FDD835)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=FDD835)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FDD835)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FDD835)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FDD835)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=FDD835)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FDD835)
-
-**Automation &amp; Quality**
-
-![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=FDD835)
-![VBA](https://img.shields.io/badge/VBA_/_Macros-0D1117?style=for-the-badge&logoColor=FDD835)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-0D1117?style=for-the-badge&logoColor=FDD835)
-![QA Validation](https://img.shields.io/badge/QA_Validation-0D1117?style=for-the-badge&logoColor=FDD835)
-![Data Annotation](https://img.shields.io/badge/Data_Annotation-0D1117?style=for-the-badge&logoColor=FDD835)
-
-**Engineering &amp; Simulation** *(where it began)*
-
-![ANSYS](https://img.shields.io/badge/ANSYS-0D1117?style=for-the-badge&logoColor=FDD835)
-![HyperWorks](https://img.shields.io/badge/HyperWorks-0D1117?style=for-the-badge&logoColor=FDD835)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-0D1117?style=for-the-badge&logo=solidworks&logoColor=FDD835)
-
----
-
-## 🏅 Certifications
-
-- **Data Analytics &amp; Visualization Job Simulation** — Accenture North America *(via Forage)* · Oct 2024
-- **Full-Stack Web Development (MERN)** — Coding Ninjas *(Front-End, Back-End / Node.js, Advanced React)*
-- **Data Structures in Java** &amp; **Introduction to Java** — Coding Ninjas
-
----
-
-## 🦇 The Signal — Contact
-
+- 📞 **Phone:** +91 88282 76174
 - 📧 **Email:** mestrypradumana1999@gmail.com
-- 🌍 **Location:** Mumbai, Maharashtra, India
-- 💼 **LinkedIn:** [/in/pradumana](https://www.linkedin.com/in/pradumana)
-- 🔗 **Portfolio:** [7he9ight0wl.github.io/Me](https://7he9ight0wl.github.io/Me/)
+- 🌍 **Location:** Mumbai, Maharashtra
+
+## Certifications
+
+- **Data Analytics and Visualization Job Simulation** by Accenture North America (via Forage) [Oct 2024]  
+- **Back End | Full Stack Web Development in Node.js** by Coding Ninjas  
+- **Advance Front-End Web Development with React- Full Stack** by Coding Ninjas  
+- **Front End | Full Stack Web Development** by Coding Ninjas  
+- **Data Structures in JAVA** by Coding Ninjas  
+- **Introduction to JAVA** by Coding Ninjas  
+
+<!-- Tech Stack -->
+<br />
+
+### ⚡ Tech Stack
+
+#### Data Analytics & BI Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-00BFFF?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### Engineering & Simulation Tools
+![ANSYS](https://img.shields.io/badge/ANSYS-FFD700?style=for-the-badge&logoColor=black)
+![HyperWorks](https://img.shields.io/badge/HyperWorks-FE5000?style=for-the-badge)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E60026?style=for-the-badge&logo=solidworks&logoColor=white)
+
+#### Analytical & Soft Skills
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-FF6F00?style=for-the-badge&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2C3E50?style=for-the-badge&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-27AE60?style=for-the-badge&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-0052CC?style=for-the-badge&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-007ACC?style=for-the-badge)
+![Team Collaboration](https://img.shields.io/badge/Collaboration-28a745?style=for-the-badge)
+
+<!-- Social -->
+<br />
+
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradumana)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=7he9ight0wl&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=7he9ight0wl&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=7he9ight0wl&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=7he9ight0wl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=7he9ight0wl&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=7he9ight0wl&show_icons=true&hide_border=true&count_private=true&title_color=FDD835&icon_color=FDD835&text_color=C9D1D9&bg_color=0D1117)
-
-![Streak](https://streak-stats.demolab.com/?user=7he9ight0wl&hide_border=true&background=0D1117&stroke=FDD835&ring=FDD835&fire=FDD835&currStreakLabel=FDD835&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7he9ight0wl&layout=compact&hide_border=true&title_color=FDD835&text_color=C9D1D9&bg_color=0D1117)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=7he9ight0wl&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-<div align="center">
-
-*"It's not the tools you use, but the decisions they drive that define you."* 🦇
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
