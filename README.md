@@ -3,9 +3,11 @@
 
 <div align="center">
 
-# 🦇 &nbsp; Pradumana Mestry &nbsp; 🦇
+<img src="bat-logo.svg" width="180" alt="Batman Logo"/>
 
-### Data &amp; Quality Analyst &nbsp;·&nbsp; Mumbai, India
+<h1>Pradumana Mestry</h1>
+
+<h3>Data &amp; Quality Analyst &nbsp;·&nbsp; Mumbai, India</h3>
 
 *By day, dashboards and clean data. By night… still dashboards.* 🌃
 
