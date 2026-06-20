@@ -43,6 +43,7 @@ Hello! I'm a data analyst based in Mumbai, Maharashtra. With a strong foundation
 
 #### Data Analytics & BI Tools
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
@@ -50,6 +51,23 @@ Hello! I'm a data analyst based in Mumbai, Maharashtra. With a strong foundation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+#### Programming & Web
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### Automation & Quality
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA%2FMacros-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-FF6F00?style=for-the-badge&logoColor=white)
+![QA Validation](https://img.shields.io/badge/QA%20Validation-6A0DAD?style=for-the-badge&logoColor=white)
+![Data Annotation](https://img.shields.io/badge/Data%20Annotation-E91E63?style=for-the-badge&logoColor=white)
+![Data Auditing](https://img.shields.io/badge/Data%20Auditing-00796B?style=for-the-badge&logoColor=white)
 
 #### Engineering & Simulation Tools
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFD700?style=for-the-badge&logoColor=black)
